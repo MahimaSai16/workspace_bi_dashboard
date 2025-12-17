@@ -46,9 +46,12 @@ Key Features / Highlights
 How to Run
 
 1️⃣ Using Streamlit
-```bash
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/8778dbe7-6c74-46e3-943b-4855f7aa3ea6" />
+
 cd scripts
 streamlit run dashboard.py
+
+
 
 Learning OutcomesS
 
@@ -58,3 +61,4 @@ Exposure to SQL, Excel, and Python for business insights
 
 Understanding of real-world BI workflows: data processing → analysis → reporting → insights
 <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/905b9c7d-b5f3-49f7-8595-4e3edf75ba23" />
+
